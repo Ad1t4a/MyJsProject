@@ -1,0 +1,15 @@
+{
+  "name": "myjsproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build":"echo Build script is running..",
+    "test": "echo Script is running...",
+    "deploy-staging":"echo code is staging...",
+    "deploy-production":"echo Deploying to production..."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
